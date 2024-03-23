@@ -1,2 +1,0 @@
-# Infamous4
-Hackathon
